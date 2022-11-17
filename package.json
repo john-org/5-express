@@ -20,6 +20,7 @@
   "homepage": "https://github.com/john-org/5-express#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
     "mongoose": "^6.7.2"
   },
   "devDependencies": {
