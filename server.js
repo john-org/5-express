@@ -1,6 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const recipeControllers = require("./api/recipe.controllers");
+require("dotenv").config();
 
 const fileUpload = require("express-fileupload");
 
